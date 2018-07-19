@@ -1,0 +1,1 @@
+web: gunicorn rotaract.wsgi --log-file -
